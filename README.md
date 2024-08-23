@@ -4,7 +4,7 @@ Soy una **Desarrolladora Web Full Stack** con especialización en **Python** y u
 
 ![Banner de Portafolio](https://your-image-link.com/banner.png)
 ![Banner Animado](https://i.imgur.com/tuGIfA7.gif)
-
+.
 
 ## 🌟 Habilidades y Tecnologías
 
